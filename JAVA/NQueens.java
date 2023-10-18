@@ -1,3 +1,5 @@
+import java.util.*;
+
 class NQueens {
 
     public void solve(int c,int n,int lC[],int lB[],int uB[],char board[][],List<List<String>> ans){
